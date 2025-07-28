@@ -1,0 +1,215 @@
+CASO 1
+para 1 su factorizacion prima es:
+
+
+vea que n tiene 1 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (1 / 1) * 1 = 1
+por lo que ahora ans = 1
+por lo que la respuesta final (sin dividir ) es 2
+1
+CASO 2
+para 2 su factorizacion prima es:
+2 
+^1 
+vea que n tiene 2 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (2 / 1) * 1 = 2
+por lo que ahora ans = 2
+estoy agarrando 1
+eso equivale a agarrar 
+2 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+de donde al final me queda (2 / 2) * 1 = 1
+por lo que ahora ans = 3
+por lo que la respuesta final (sin dividir ) es 4
+2
+CASO 3
+para 3 su factorizacion prima es:
+3 
+^1 
+vea que n tiene 2 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (2 / 1) * 1 = 2
+por lo que ahora ans = 2
+estoy agarrando 1
+eso equivale a agarrar 
+3 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+de donde al final me queda (2 / 2) * 1 = 1
+por lo que ahora ans = 3
+por lo que la respuesta final (sin dividir ) es 4
+2
+CASO 4
+para 4 su factorizacion prima es:
+2 
+^2 
+vea que n tiene 3 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (3 / 1) * 1 = 3
+por lo que ahora ans = 3
+estoy agarrando 1
+eso equivale a agarrar 
+2 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 3
+de donde al final me queda (3 / 3) * 2 = 2
+por lo que ahora ans = 5
+por lo que la respuesta final (sin dividir ) es 6
+3
+CASO 5
+para 5 su factorizacion prima es:
+5 
+^1 
+vea que n tiene 2 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (2 / 1) * 1 = 2
+por lo que ahora ans = 2
+estoy agarrando 1
+eso equivale a agarrar 
+5 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+de donde al final me queda (2 / 2) * 1 = 1
+por lo que ahora ans = 3
+por lo que la respuesta final (sin dividir ) es 4
+2
+CASO 6
+para 6 su factorizacion prima es:
+2 3 
+^1 ^1 
+vea que n tiene 4 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (4 / 1) * 1 = 4
+por lo que ahora ans = 4
+estoy agarrando 1
+eso equivale a agarrar 
+2 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+de donde al final me queda (4 / 2) * 1 = 2
+por lo que ahora ans = 6
+estoy agarrando 2
+eso equivale a agarrar 
+3 
+vea que tengo agarrado a 2
+de donde el denominador ahora es 2
+de donde al final me queda (4 / 2) * 1 = 2
+por lo que ahora ans = 8
+estoy agarrando 3
+eso equivale a agarrar 
+2 3 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+vea que tengo agarrado a 2
+de donde el denominador ahora es 4
+de donde al final me queda (4 / 4) * 1 = 1
+por lo que ahora ans = 9
+por lo que la respuesta final (sin dividir ) es 10
+5
+CASO 7
+para 7 su factorizacion prima es:
+7 
+^1 
+vea que n tiene 2 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (2 / 1) * 1 = 2
+por lo que ahora ans = 2
+estoy agarrando 1
+eso equivale a agarrar 
+7 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+de donde al final me queda (2 / 2) * 1 = 1
+por lo que ahora ans = 3
+por lo que la respuesta final (sin dividir ) es 4
+2
+CASO 8
+para 8 su factorizacion prima es:
+2 
+^3 
+vea que n tiene 4 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (4 / 1) * 1 = 4
+por lo que ahora ans = 4
+estoy agarrando 1
+eso equivale a agarrar 
+2 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 4
+de donde al final me queda (4 / 4) * 3 = 3
+por lo que ahora ans = 7
+por lo que la respuesta final (sin dividir ) es 8
+4
+CASO 9
+para 9 su factorizacion prima es:
+3 
+^2 
+vea que n tiene 3 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (3 / 1) * 1 = 3
+por lo que ahora ans = 3
+estoy agarrando 1
+eso equivale a agarrar 
+3 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 3
+de donde al final me queda (3 / 3) * 2 = 2
+por lo que ahora ans = 5
+por lo que la respuesta final (sin dividir ) es 6
+3
+CASO 10
+para 10 su factorizacion prima es:
+2 5 
+^1 ^1 
+vea que n tiene 4 divisores
+estoy agarrando 0
+eso equivale a agarrar 
+
+de donde al final me queda (4 / 1) * 1 = 4
+por lo que ahora ans = 4
+estoy agarrando 1
+eso equivale a agarrar 
+2 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+de donde al final me queda (4 / 2) * 1 = 2
+por lo que ahora ans = 6
+estoy agarrando 2
+eso equivale a agarrar 
+5 
+vea que tengo agarrado a 2
+de donde el denominador ahora es 2
+de donde al final me queda (4 / 2) * 1 = 2
+por lo que ahora ans = 8
+estoy agarrando 3
+eso equivale a agarrar 
+2 5 
+vea que tengo agarrado a 1
+de donde el denominador ahora es 2
+vea que tengo agarrado a 2
+de donde el denominador ahora es 4
+de donde al final me queda (4 / 4) * 1 = 1
+por lo que ahora ans = 9
+por lo que la respuesta final (sin dividir ) es 10
+5
