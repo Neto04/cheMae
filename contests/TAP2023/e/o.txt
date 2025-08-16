@@ -1,0 +1,151 @@
+d = 1, l = 5
+Voy a probar con 2 maes
+m = 0, n = 2, x = 36
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 0, n = 0, x = 10
+Voy a probar con 1 maes
+m = 0, n = 1, x = 22
+Hay 2 maes despues
+l = 5 y r = 7
+
+d = 1, l = 4
+Voy a probar con 2 maes
+m = 1, n = 2, x = 44
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 1, n = 0, x = 18
+Voy a probar con 1 maes
+m = 1, n = 1, x = 30
+1 maes me funcionan
+Hay 1 maes despues
+l = 4 y r = 6
+
+d = 1, l = 3
+Voy a probar con 2 maes
+m = 2, n = 2, x = 50
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 2, n = 0, x = 24
+Voy a probar con 1 maes
+m = 2, n = 1, x = 36
+1 maes me funcionan
+Hay 1 maes despues
+l = 3 y r = 6
+
+d = 1, l = 2
+Voy a probar con 2 maes
+m = 3, n = 2, x = 54
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 3, n = 0, x = 28
+Voy a probar con 1 maes
+m = 3, n = 1, x = 40
+1 maes me funcionan
+Hay 1 maes despues
+l = 2 y r = 6
+
+d = 1, l = 1
+Voy a probar con 2 maes
+m = 4, n = 2, x = 56
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 4, n = 0, x = 30
+0 maes me funcionan
+Hay 0 maes despues
+l = 1 y r = 5
+
+d = 2, l = 5
+Voy a probar con 2 maes
+m = 0, n = 2, x = 42
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 0, n = 0, x = 10
+Voy a probar con 1 maes
+m = 0, n = 1, x = 24
+Hay 2 maes despues
+l = 5 y r = 9
+
+d = 2, l = 3
+Voy a probar con 2 maes
+m = 1, n = 2, x = 48
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 1, n = 0, x = 16
+Voy a probar con 1 maes
+m = 1, n = 1, x = 30
+1 maes me funcionan
+Hay 1 maes despues
+l = 3 y r = 7
+
+d = 2, l = 1
+Voy a probar con 2 maes
+m = 2, n = 2, x = 50
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 2, n = 0, x = 18
+Voy a probar con 1 maes
+m = 2, n = 1, x = 32
+1 maes me funcionan
+Hay 1 maes despues
+l = 1 y r = 7
+
+d = 3, l = 5
+Voy a probar con 2 maes
+m = 0, n = 2, x = 48
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 0, n = 0, x = 10
+Voy a probar con 1 maes
+m = 0, n = 1, x = 26
+Hay 2 maes despues
+l = 5 y r = 11
+
+d = 3, l = 2
+Voy a probar con 2 maes
+m = 1, n = 2, x = 52
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 1, n = 0, x = 14
+Voy a probar con 1 maes
+m = 1, n = 1, x = 30
+1 maes me funcionan
+Hay 1 maes despues
+l = 2 y r = 8
+
+d = 4, l = 5
+Voy a probar con 2 maes
+m = 0, n = 2, x = 54
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 0, n = 0, x = 10
+Voy a probar con 1 maes
+m = 0, n = 1, x = 28
+Hay 2 maes despues
+l = 5 y r = 13
+
+d = 4, l = 1
+Voy a probar con 2 maes
+m = 1, n = 2, x = 56
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 1, n = 0, x = 12
+Voy a probar con 1 maes
+m = 1, n = 1, x = 30
+1 maes me funcionan
+Hay 1 maes despues
+l = 1 y r = 9
+
+d = 5, l = 5
+Voy a probar con 2 maes
+m = 0, n = 2, x = 60
+2 maes me funcionan
+Voy a probar con 0 maes
+m = 0, n = 0, x = 10
+Voy a probar con 1 maes
+m = 0, n = 1, x = 30
+1 maes me funcionan
+Hay 1 maes despues
+l = 5 y r = 10
+
+6

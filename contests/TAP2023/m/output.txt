@@ -1,0 +1,16 @@
+
+Llevo 0.0000 segundos
+Termina primero el P 10.0000 con velocidad 10.0000, el otro es 100.0000 con velocidad 5.0000
+
+Llevo 1.0000 segundos
+Termina primero el P 10.0000 con velocidad 15.0000, el otro es 95.0000 con velocidad 5.0000
+
+Llevo 1.6667 segundos
+Termina primero el P 180.0000 con velocidad 30.0000, el otro es 91.6667 con velocidad 5.0000
+
+Toca vaciar a N
+Llevo 7.6667 y sigue 23.3333 con velocidad 20.0000
+
+Llevo 8.8333 y sigue 238.3333 con velocidad 40.0000
+
+14.7917

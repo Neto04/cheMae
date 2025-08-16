@@ -1,0 +1,20 @@
+x1 = 3
+OG = 3
+me fijo en 0
+me muevo 0
+y1 = 0, y2 = -3
+de donde ans = 6
+me fijo en 2
+me muevo 2
+y1 = 0, y2 = -1
+de donde ans = 10
+me fijo en 3
+me muevo 1
+y1 = -1, y2 = -1
+de donde ans = 13
+me fijo en 4
+me muevo 1
+y1 = 3, y2 = 0
+de donde ans = 20
+finalmente me muevo 0
+20

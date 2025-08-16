@@ -1,0 +1,59 @@
+ahorita size = 1
+como la vara es impar solo me importa el mae en 0 que es 1
+1
+ahorita size = 2
+la vara tiene sZ par, entonces me importan 2, y 1
+el promedio de eso es 1
+1
+ahorita size = 3
+como la vara es impar solo me importa el mae en 1 que es 2
+2
+ahorita size = 4
+la vara tiene sZ par, entonces me importan 3, y 2
+el promedio de eso es 2
+2
+ahorita size = 5
+como la vara es impar solo me importa el mae en 2 que es 3
+3
+ahorita size = 6
+la vara tiene sZ par, entonces me importan 4, y 3
+el promedio de eso es 3
+3
+ahorita size = 7
+como la vara es impar solo me importa el mae en 3 que es 4
+4
+ahorita size = 8
+la vara tiene sZ par, entonces me importan 5, y 4
+el promedio de eso es 4
+4
+ahorita size = 9
+como la vara es impar solo me importa el mae en 4 que es 5
+5
+ahorita size = 10
+la vara tiene sZ par, entonces me importan 6, y 5
+el promedio de eso es 5
+5
+ahorita size = 9
+como la vara es impar solo me importa el mae en 4 que es 5
+5
+ahorita size = 8
+la vara tiene sZ par, entonces me importan 5, y 4
+el promedio de eso es 4
+4
+ahorita size = 7
+como la vara es impar solo me importa el mae en 3 que es 4
+4
+ahorita size = 6
+la vara tiene sZ par, entonces me importan 4, y 3
+el promedio de eso es 3
+3
+ahorita size = 5
+como la vara es impar solo me importa el mae en 2 que es 3
+3
+ahorita size = 4
+la vara tiene sZ par, entonces me importan 3, y 2
+el promedio de eso es 2
+2
+ahorita size = 3
+como la vara es impar solo me importa el mae en 1 que es 2
+2

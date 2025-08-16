@@ -1,0 +1,80 @@
+El scc de 1 es 1
+El scc de 2 es 1
+El scc de 3 es 1
+El scc de 4 es 4
+El scc de 5 es 5
+El scc de 6 es 6
+El scc de 7 es 7
+Arista de 1 a 4: 
+Voy a subir el oG de 1 y el iG de 4
+Arista de 1 a 5: 
+Voy a subir el oG de 1 y el iG de 5
+Arista de 1 a 6: 
+Voy a subir el oG de 1 y el iG de 6
+Arista de 1 a 7: 
+Voy a subir el oG de 1 y el iG de 7
+Arista de 2 a 4: 
+Voy a subir el oG de 1 y el iG de 4
+Arista de 2 a 5: 
+Voy a subir el oG de 1 y el iG de 5
+Arista de 2 a 6: 
+Voy a subir el oG de 1 y el iG de 6
+Arista de 2 a 7: 
+Voy a subir el oG de 1 y el iG de 7
+Arista de 3 a 4: 
+Voy a subir el oG de 1 y el iG de 4
+Arista de 3 a 5: 
+Voy a subir el oG de 1 y el iG de 5
+Arista de 3 a 6: 
+Voy a subir el oG de 1 y el iG de 6
+Arista de 3 a 7: 
+Voy a subir el oG de 1 y el iG de 7
+Arista de 4 a 1: 
+Voy a subir el oG de 4 y el iG de 1
+Arista de 4 a 2: 
+Voy a subir el oG de 4 y el iG de 1
+Arista de 4 a 3: 
+Voy a subir el oG de 4 y el iG de 1
+Arista de 4 a 5: 
+Voy a subir el oG de 4 y el iG de 5
+Arista de 4 a 6: 
+Voy a subir el oG de 4 y el iG de 6
+Arista de 4 a 7: 
+Voy a subir el oG de 4 y el iG de 7
+Arista de 5 a 1: 
+Voy a subir el oG de 5 y el iG de 1
+Arista de 5 a 2: 
+Voy a subir el oG de 5 y el iG de 1
+Arista de 5 a 3: 
+Voy a subir el oG de 5 y el iG de 1
+Arista de 5 a 4: 
+Voy a subir el oG de 5 y el iG de 4
+Arista de 5 a 6: 
+Voy a subir el oG de 5 y el iG de 6
+Arista de 5 a 7: 
+Voy a subir el oG de 5 y el iG de 7
+Arista de 6 a 1: 
+Voy a subir el oG de 6 y el iG de 1
+Arista de 6 a 2: 
+Voy a subir el oG de 6 y el iG de 1
+Arista de 6 a 3: 
+Voy a subir el oG de 6 y el iG de 1
+Arista de 6 a 4: 
+Voy a subir el oG de 6 y el iG de 4
+Arista de 6 a 5: 
+Voy a subir el oG de 6 y el iG de 5
+Arista de 6 a 7: 
+Voy a subir el oG de 6 y el iG de 7
+Arista de 7 a 1: 
+Voy a subir el oG de 7 y el iG de 1
+Arista de 7 a 2: 
+Voy a subir el oG de 7 y el iG de 1
+Arista de 7 a 3: 
+Voy a subir el oG de 7 y el iG de 1
+Arista de 7 a 4: 
+Voy a subir el oG de 7 y el iG de 4
+Arista de 7 a 5: 
+Voy a subir el oG de 7 y el iG de 5
+Arista de 7 a 6: 
+Voy a subir el oG de 7 y el iG de 6
+0

@@ -1,0 +1,16 @@
+oG se ve: 
+5 2 
+meto al mae en 4 que vale 1
+efe, ese mae va a resto
+ahora saco al mae en 1 que abajo vale 2
+ese valor estaba en resto, lo quito
+de donde la suma de arriba ahora es 18 y la de abajo 5
+ans ahorita es 23
+meto al mae en 3 que vale 3
+efe, ese mae va a resto
+ahora saco al mae en 0 que abajo vale 5
+efe, no estaba en resto, entonces lo saco de lMax
+meto 3
+de donde la suma de arriba ahora es 11 y la de abajo 3
+ans ahorita es 23
+23

@@ -1,0 +1,6 @@
+Termina primero el P 10 con velocidad 10
+Termina primero el N -95 con velocidad 5
+Termina primero el P -305 con velocidad 15
+Termina primero el N -503.333 con velocidad 10
+Toca vaciar a P
+-131.4167
