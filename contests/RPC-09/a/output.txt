@@ -1,0 +1,55 @@
+n = 1, m=8
+estoy solving window 0, 5
+sobre el vector
+5 1 2 3 4 1 1 5 
+ahorita el window se ve
+5 4 1 
+en 6 veo a 1
+saco a (1, 5)
+saco a (5, 0)del frente porque ya no es relevante
+en 7 veo a 5
+saco a (1, 6)
+saco a (4, 4)
+de donde ans se ve:
+5 4 5 
+la fila 0 se ve 
+5 4 5 
+vea que nn = 1, mm = 3
+VIENDO LA COLUMNA 0
+la columna 0 ahorita se ve: 
+5 
+estoy solving window 0, 0
+sobre el vector
+5 
+ahorita el window se ve
+5 
+de donde ans se ve:
+5 
+de donde la columna 0 ahora se ve:
+5 
+VIENDO LA COLUMNA 1
+la columna 1 ahorita se ve: 
+4 
+estoy solving window 0, 0
+sobre el vector
+4 
+ahorita el window se ve
+4 
+de donde ans se ve:
+4 
+de donde la columna 1 ahora se ve:
+4 
+VIENDO LA COLUMNA 2
+la columna 2 ahorita se ve: 
+5 
+estoy solving window 0, 0
+sobre el vector
+5 
+ahorita el window se ve
+5 
+de donde ans se ve:
+5 
+de donde la columna 2 ahora se ve:
+5 
+DE DONDE EL RESULTADO FINAL ES 
+5 4 5
