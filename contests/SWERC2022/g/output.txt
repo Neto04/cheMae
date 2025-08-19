@@ -1,0 +1,17 @@
+ahorita i1 = 0, e i2 = 4
+cL= 2, cR = 3
+ahorita i1 = 1, e i2 = 5
+cL= 2, cR = 3
+ahorita i1 = 2, e i2 = 6
+cL= 1, cR = 3
+ahorita i1 = 3, e i2 = 7
+cL= 1, cR = 4
+ahorita i1 = 4, e i2 = 8
+cL= 2, cR = 5
+ahorita i1 = 5, e i2 = 9
+cL= 3, cR = 6
+ahorita i1 = 6, e i2 = 10
+cL= 4, cR = 7
+la suma 1 aparece 2 veces
+la suma 2 aparece 6 veces
+2
