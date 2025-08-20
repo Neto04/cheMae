@@ -37,18 +37,47 @@ void Add(vector <node> &trie, string &s) {
 }
 
 // usted sabe que todas las letras anteriores estaban, revise si la i-esima está
-int search(node& cN, string & s, int i) {
+int search(vector<node>& trie, int cN, string & s, int i) {
     // si ya llegó al final de esa palabra, tire cuántas veces ha metido a ese mae
-    if (i==s.size()) return cN.finales;
+    if (i==s.size()) return trie[cN].finales;
+    int c = s[i];
+    // de fijo si usted no era siguiente de la letra anterior, rip
+    if (!trie[cN].nxt.count(c)) return 0;
+    return search(trie, trie[cN].nxt[c], s, i+1);
     
-    if (cN.nxt.count(s[i])) {
-        
-    }
 }
 // me retorna cuántas veces aparece un string s en el trie
 int search(vector<node>& trie, string & s) {
-    return search(trie[0], s, 0);
+    return search(trie, 0, s, 0);
 }
+
+
+// está en el nodo cN a punto de moverse a la letra i del string s
+// me dice si, después de quitar la letra i del string s, el nodo cN quedó vacío
+bool quitar(vector<node>& trie, int cN, string & s, int i) {
+    // si ya llegó al final de la palabra, todo bien, solo retorne si el nodo ahora quedó vacío o no
+    if (i==s.size()) {
+        trie[cN].tam--;
+        trie[cN].finales--;
+        // retorne si queda o no vacío
+        return (trie[cN].tam==0 and trie[cN].finales==0);
+    }
+
+    int c=s[i];
+    int sig=trie[cN].nxt[s[i]];
+    // intente quitar la siguiente letra, si esa vara queda vacía, bórrela
+    if (quitar(trie, sig, s, i+1)) trie[cN].nxt.erase(c);
+    // retorne si (usted ya no tiene hijos Y usted no es final de nadie)
+    return trie[cN].tam==0 and trie[cN].finales==0;
+}
+
+
+bool quitar(vector<node>& trie, string& s) {
+    if (!search(trie, s)) return false;
+    return quitar(trie, 0, s, 0);
+}
+
+
 
 
 
@@ -64,8 +93,19 @@ int main() {
     // al end de cada palabra
     forn(i, n) {
         cin>>v[i];
-        v[i] += ('z' + 1);
         Add(trie, v[i]);
+    }
+
+    int q; cin>>q;
+    while (q--) {
+        int op; cin>>op;
+        string s; cin>>s;
+        if (op==1) cout<<search(trie, s)<<endl;
+        else if (op==2) Add(trie, s);
+        else {
+            cout<<quitar(trie, s)<<endl;
+        }
+        
     }
 
 }

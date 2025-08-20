@@ -13,7 +13,7 @@ struct Trie {
 for(int i = 0; i < 26; i++) hijos[i] = NULL;}};
         
 void add(Trie* node, string word, int k) {
-	if(k == words.size()){
+	if(k == word.size()){
 		node->words++; node->pref++;}
 	else{
 		node->pref++; int ind = (int)(word[k] - 'a');
@@ -22,7 +22,7 @@ void add(Trie* node, string word, int k) {
 			add(node->hijos[ind], word, k+1);}
 		else add(node->hijos[ind], word, k+1);}}
 int search(Trie* node, string word, int k){
-	if(k == words.size()) return (node->words);
+	if(k == word.size()) return (node->words);
 	int ind = (int)(word[k] - 'a');
 	if(node->hijos[ind] == NULL) return (0);
 	else return search(node->hijos[ind], word, k+1);}
