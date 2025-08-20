@@ -1,4 +1,4 @@
-// código fumado de Teruel
+// trie plagiado de Teruel, modificado
 #include <bits/stdc++.h> 
 #define ll long long
 #define forr(i, a, b) for(int i=a; i<b; i++)
