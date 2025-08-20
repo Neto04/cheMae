@@ -1,8 +1,0 @@
-1 sirve
-el recorrido de 1 cumple
-2 sirve
-el recorrido de 2 cumple
-3 sirve
-4 sirve
-5 sirve
-2

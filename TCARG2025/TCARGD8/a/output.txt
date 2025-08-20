@@ -1,7 +1,0 @@
-AL INICIO:
-v se ve:
-1 2 3 4 5 
-lengths:
-0 0 0 0 5 
-finales:
-4 
