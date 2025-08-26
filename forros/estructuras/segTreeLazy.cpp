@@ -24,7 +24,7 @@ struct Mono {
     // el neutro de ese valor
 	static Mono zero() {return {0};}
     // a este mono, métale el x de este lazy d
-	void apply_lazy(Lazy d, int l, int r) { x += d.x; }
+	void apply_lazy(Lazy d, int l, int r) { x += d.x*(r-l); }
 };
 
 // para mezclar dos lazies

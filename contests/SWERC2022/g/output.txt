@@ -1,17 +1,80 @@
-ahorita i1 = 0, e i2 = 4
-cL= 2, cR = 3
-ahorita i1 = 1, e i2 = 5
-cL= 2, cR = 3
-ahorita i1 = 2, e i2 = 6
-cL= 1, cR = 3
-ahorita i1 = 3, e i2 = 7
-cL= 1, cR = 4
-ahorita i1 = 4, e i2 = 8
-cL= 2, cR = 5
-ahorita i1 = 5, e i2 = 9
-cL= 3, cR = 6
-ahorita i1 = 6, e i2 = 10
-cL= 4, cR = 7
-la suma 1 aparece 2 veces
-la suma 2 aparece 6 veces
+v se ve: 
+0 1 1 0 0 0 1 1 1 
+pSum se ve: 
+0 1 2 2 2 2 3 4 5 
+ceros = 0
+me fijo en 0
+vea que aún forma window
+buscando suma desde 0 hasta 4
+suma hasta 4 = 2
+de donde ans = 2
+vea que la suma de su window de 5 maes es 2
+buscando suma desde 0 hasta 8
+suma hasta 8 = 5
+de donde ans = 5
+la suma de 0 al final es 5
+me fijo en 1
+vea que aún forma window
+buscando suma desde 1 hasta 5
+suma hasta 5 = 2
+suma antes de 1 = 0
+de donde ans = 2
+vea que la suma de su window de 5 maes es 2
+buscando suma desde 1 hasta 8
+suma hasta 8 = 5
+suma antes de 1 = 0
+de donde ans = 5
+la suma de 1 al final es 5
+me fijo en 2
+vea que aún forma window
+buscando suma desde 2 hasta 6
+suma hasta 6 = 3
+suma antes de 2 = 1
+de donde ans = 2
+vea que la suma de su window de 5 maes es 2
+buscando suma desde 2 hasta 8
+suma hasta 8 = 5
+suma antes de 2 = 1
+de donde ans = 4
+la suma de 2 al final es 4
+me fijo en 3
+vea que aún forma window
+buscando suma desde 3 hasta 7
+suma hasta 7 = 4
+suma antes de 3 = 2
+de donde ans = 2
+vea que la suma de su window de 5 maes es 2
+buscando suma desde 3 hasta 8
+suma hasta 8 = 5
+suma antes de 3 = 2
+de donde ans = 3
+la suma de 3 al final es 3
+me fijo en 4
+vea que aún forma window
+buscando suma desde 4 hasta 8
+suma hasta 8 = 5
+suma antes de 4 = 2
+de donde ans = 3
+vea que la suma de su window de 5 maes es 3
+buscando suma desde 4 hasta 8
+suma hasta 8 = 5
+suma antes de 4 = 2
+de donde ans = 3
+la suma de 4 al final es 3
+me fijo en 5
+vea que tiene un 0 y windows detrás suyo
+buscando suma desde 0 hasta 4
+suma hasta 4 = 2
+de donde ans = 2
+vea que la suma del window detrás suyo es 2
+buscando suma desde 0 hasta 4
+suma hasta 4 = 2
+de donde ans = 2
+vea que la suma del window hasta el inicio es 2
+me fijo en 6
+me fijo en 7
+me fijo en 8
+la suma 0 aparece 0 veces
+la suma 1 aparece 0 veces
+la suma 2 aparece 5 veces
 2

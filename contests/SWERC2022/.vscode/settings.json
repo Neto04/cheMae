@@ -3,6 +3,8 @@
         "iostream": "cpp",
         "regex": "cpp",
         "ostream": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "ios": "cpp",
+        "valarray": "cpp"
     }
 }
