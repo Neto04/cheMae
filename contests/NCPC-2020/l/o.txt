@@ -1,0 +1,21 @@
+Voy a buscar la palabra 0
+dir = 0
+dir = 1
+Me sirve empezar en (0,0) y terminar en (0,2)
+Me sirve empezar en (0,1) y terminar en (0,3)
+Me sirve empezar en (1,0) y terminar en (1,2)
+Me sirve empezar en (1,1) y terminar en (1,3)
+dir = 2
+dir = 3
+dir = 4
+dir = 5
+Voy a buscar la palabra 1
+dir = 0
+dir = 1
+dir = 2
+dir = 3
+dir = 4
+dir = 5
+1 1 1 1 
+1 1 1 1 
+0

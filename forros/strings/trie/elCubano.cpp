@@ -6,8 +6,8 @@
 #define debug 1
 #define ifd if(debug)
 using namespace std;
-
-
+vector<int> freq(3*1e6);
+int maxFreq=0;
 struct node {
     // nxt[x] me dice el nodo al que voy si
     // estoy en mi nodo actual y me encuentro la letra x
@@ -25,6 +25,8 @@ bool isFinal(node& nodo) {return nodo.finales==nodo.tam;}
 void Add(vector <node> &trie, string &s) {
     int curr = 0;
     for (int i = 0; i < s.size(); i++) {
+        freq[curr]++;
+        maxFreq=max(maxFreq, freq[curr]);
         int c = s[i];
         if (!trie[curr].nxt.count(c)) {
             trie[curr].nxt[c] = trie.size();
@@ -58,14 +60,22 @@ int main() {
 
 
     int n; cin>>n;
-    vector<string> v(n);
+
     vector<node> trie(1);
     // usted ocupa meterle un caracter extra de final de palabra
     // al end de cada palabra
     forn(i, n) {
         cin>>v[i];
-        v[i] += ('z' + 1);
+        v[i];
         Add(trie, v[i]);
     }
+    int n; cin>>n;
+    forn(i, n) {
+        string s; cin>>s;
+        
+    }
+
+
+
 
 }

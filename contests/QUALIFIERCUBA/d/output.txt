@@ -1,0 +1,326 @@
+ans = 1
+freq de 0 en 14, 21 = 3
+ahorita n = 8 y ci = 3
+ans ahorita = 56
+freq de 1 en 14, 21 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 56
+freq de 2 en 14, 21 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 56
+freq de 3 en 14, 21 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 56
+freq de 4 en 14, 21 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 56
+freq de 5 en 14, 21 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 56
+freq de 6 en 14, 21 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 56
+freq de 7 en 14, 21 = 1
+ahorita n = 5 y ci = 1
+ans ahorita = 280
+freq de 8 en 14, 21 = 1
+ahorita n = 4 y ci = 1
+ans ahorita = 1120
+freq de 9 en 14, 21 = 1
+ahorita n = 3 y ci = 1
+ans ahorita = 3360
+freq de 10 en 14, 21 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 3360
+freq de 11 en 14, 21 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 3360
+freq de 12 en 14, 21 = 1
+ahorita n = 2 y ci = 1
+ans ahorita = 6720
+freq de 13 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 14 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 15 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 16 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 17 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 18 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 19 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 20 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 21 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 22 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 23 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 24 en 14, 21 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 6720
+freq de 25 en 14, 21 = 1
+ahorita n = 1 y ci = 1
+ans ahorita = 6720
+6720
+YES
+ans = 1
+freq de 0 en 0, 11 = 1
+ahorita n = 12 y ci = 1
+ans ahorita = 12
+freq de 1 en 0, 11 = 0
+ahorita n = 11 y ci = 0
+ans ahorita = 12
+freq de 2 en 0, 11 = 1
+ahorita n = 11 y ci = 1
+ans ahorita = 132
+freq de 3 en 0, 11 = 0
+ahorita n = 10 y ci = 0
+ans ahorita = 132
+freq de 4 en 0, 11 = 0
+ahorita n = 10 y ci = 0
+ans ahorita = 132
+freq de 5 en 0, 11 = 0
+ahorita n = 10 y ci = 0
+ans ahorita = 132
+freq de 6 en 0, 11 = 0
+ahorita n = 10 y ci = 0
+ans ahorita = 132
+freq de 7 en 0, 11 = 1
+ahorita n = 10 y ci = 1
+ans ahorita = 1320
+freq de 8 en 0, 11 = 0
+ahorita n = 9 y ci = 0
+ans ahorita = 1320
+freq de 9 en 0, 11 = 0
+ahorita n = 9 y ci = 0
+ans ahorita = 1320
+freq de 10 en 0, 11 = 0
+ahorita n = 9 y ci = 0
+ans ahorita = 1320
+freq de 11 en 0, 11 = 0
+ahorita n = 9 y ci = 0
+ans ahorita = 1320
+freq de 12 en 0, 11 = 2
+ahorita n = 9 y ci = 2
+ans ahorita = 47520
+freq de 13 en 0, 11 = 1
+ahorita n = 7 y ci = 1
+ans ahorita = 332640
+freq de 14 en 0, 11 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 332640
+freq de 15 en 0, 11 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 332640
+freq de 16 en 0, 11 = 1
+ahorita n = 6 y ci = 1
+ans ahorita = 1995840
+freq de 17 en 0, 11 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 1995840
+freq de 18 en 0, 11 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 1995840
+freq de 19 en 0, 11 = 2
+ahorita n = 5 y ci = 2
+ans ahorita = 19958400
+freq de 20 en 0, 11 = 1
+ahorita n = 3 y ci = 1
+ans ahorita = 59875200
+freq de 21 en 0, 11 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 59875200
+freq de 22 en 0, 11 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 59875200
+freq de 23 en 0, 11 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 59875200
+freq de 24 en 0, 11 = 2
+ahorita n = 2 y ci = 2
+ans ahorita = 59875200
+freq de 25 en 0, 11 = 0
+ahorita n = 0 y ci = 0
+ans ahorita = 59875200
+59875200
+YES
+ans = 1
+freq de 0 en 17, 22 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 1 en 17, 22 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 2 en 17, 22 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 3 en 17, 22 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 4 en 17, 22 = 1
+ahorita n = 6 y ci = 1
+ans ahorita = 6
+freq de 5 en 17, 22 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 6
+freq de 6 en 17, 22 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 6
+freq de 7 en 17, 22 = 0
+ahorita n = 5 y ci = 0
+ans ahorita = 6
+freq de 8 en 17, 22 = 1
+ahorita n = 5 y ci = 1
+ans ahorita = 30
+freq de 9 en 17, 22 = 0
+ahorita n = 4 y ci = 0
+ans ahorita = 30
+freq de 10 en 17, 22 = 1
+ahorita n = 4 y ci = 1
+ans ahorita = 120
+freq de 11 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 12 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 13 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 14 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 15 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 16 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 17 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 18 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 19 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 20 en 17, 22 = 0
+ahorita n = 3 y ci = 0
+ans ahorita = 120
+freq de 21 en 17, 22 = 1
+ahorita n = 3 y ci = 1
+ans ahorita = 360
+freq de 22 en 17, 22 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 360
+freq de 23 en 17, 22 = 1
+ahorita n = 2 y ci = 1
+ans ahorita = 720
+freq de 24 en 17, 22 = 1
+ahorita n = 1 y ci = 1
+ans ahorita = 720
+freq de 25 en 17, 22 = 0
+ahorita n = 0 y ci = 0
+ans ahorita = 720
+720
+NO
+NO
+NO
+ans = 1
+freq de 0 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 1 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 2 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 3 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 4 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 5 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 6 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 7 en 8, 13 = 0
+ahorita n = 6 y ci = 0
+ans ahorita = 1
+freq de 8 en 8, 13 = 1
+ahorita n = 6 y ci = 1
+ans ahorita = 6
+freq de 9 en 8, 13 = 1
+ahorita n = 5 y ci = 1
+ans ahorita = 30
+freq de 10 en 8, 13 = 0
+ahorita n = 4 y ci = 0
+ans ahorita = 30
+freq de 11 en 8, 13 = 0
+ahorita n = 4 y ci = 0
+ans ahorita = 30
+freq de 12 en 8, 13 = 2
+ahorita n = 4 y ci = 2
+ans ahorita = 180
+freq de 13 en 8, 13 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 180
+freq de 14 en 8, 13 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 180
+freq de 15 en 8, 13 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 180
+freq de 16 en 8, 13 = 0
+ahorita n = 2 y ci = 0
+ans ahorita = 180
+freq de 17 en 8, 13 = 1
+ahorita n = 2 y ci = 1
+ans ahorita = 360
+freq de 18 en 8, 13 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 360
+freq de 19 en 8, 13 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 360
+freq de 20 en 8, 13 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 360
+freq de 21 en 8, 13 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 360
+freq de 22 en 8, 13 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 360
+freq de 23 en 8, 13 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 360
+freq de 24 en 8, 13 = 0
+ahorita n = 1 y ci = 0
+ans ahorita = 360
+freq de 25 en 8, 13 = 1
+ahorita n = 1 y ci = 1
+ans ahorita = 360
+360
+YES

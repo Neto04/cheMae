@@ -1,0 +1,27 @@
+Para abajo de (0,0) hay 0, para arriba hay 0
+Para abajo de (0,1) hay 0, para arriba hay 0
+Para abajo de (0,2) hay 1, para arriba hay 1
+Para abajo de (0,3) hay 0, para arriba hay 0
+Para abajo de (1,0) hay 1, para arriba hay 1
+Para abajo de (1,1) hay 1, para arriba hay 4
+Para abajo de (1,2) hay 0, para arriba hay 0
+Para abajo de (1,3) hay 1, para arriba hay 3
+Para abajo de (2,0) hay 0, para arriba hay 0
+Para abajo de (2,1) hay 2, para arriba hay 3
+Para abajo de (2,2) hay 0, para arriba hay 0
+Para abajo de (2,3) hay 2, para arriba hay 2
+Para abajo de (3,0) hay 1, para arriba hay 1
+Para abajo de (3,1) hay 3, para arriba hay 2
+Para abajo de (3,2) hay 1, para arriba hay 1
+Para abajo de (3,3) hay 3, para arriba hay 1
+Para abajo de (4,0) hay 0, para arriba hay 0
+Para abajo de (4,1) hay 4, para arriba hay 1
+Para abajo de (4,2) hay 0, para arriba hay 0
+Para abajo de (4,3) hay 0, para arriba hay 0
+La col mas grande a la izq de 0 es 1, la col mas grande a la der de 0 es 4
+La col mas grande a la izq de 1 es 4, la col mas grande a la der de 1 es 4
+La col mas grande a la izq de 2 es 4, la col mas grande a la der de 2 es 3
+La col mas grande a la izq de 3 es 4, la col mas grande a la der de 3 es 3
+f1 = 2, f2 = 1
+c1 = 3, c2 = 1
+15

@@ -1,0 +1,27 @@
+A 3 le van a llegar 0 en 2 turnos
+
+A 3 le van a llegar 1 en 2 turnos
+
+Sumarle 1 a lo que le llega a 3
+Sumarle 1 a lo que le va a llegar a 6
+A 3 le llego 1 en 2 turnos
+A 6 le van a llegar 1 en 3 turnos
+A 6 le van a llegar 0 en 2 turnos
+
+A 2 le van a llegar 2 en 2 turnos
+
+A 2 le llego 2 en 2 turnos
+A 6 le van a llegar 0 en 2 turnos
+
+Sumarle 0 a lo que le llega a 6
+Sumarle 0 a lo que le va a llegar a 1
+A 6 le llego 1 en 3 turnos
+A 6 le llego 0 en 2 turnos
+A 1 le van a llegar 0 en 3 turnos
+A 1 le van a llegar 0 en 2 turnos
+
+A 1 le llego 0 en 3 turnos
+A 1 le llego 0 en 2 turnos
+A 0 le van a llegar 0 en 2 turnos
+
+2 1

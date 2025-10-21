@@ -1,0 +1,1506 @@
+checking 7
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 4 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 4 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 4 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que si elijo la hora 11, me sirve para 0.0000000 dias
+vea que si elijo la hora 12, me sirve para 0.0000000 dias
+vea que si elijo la hora 13, me sirve para 0.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que si elijo la hora 15, me sirve para 0.0000000 dias
+vea que si elijo la hora 16, me sirve para 0.0000000 dias
+vea que si elijo la hora 17, me sirve para 0.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 11
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que si elijo la hora 11, me sirve para 0.0000000 dias
+vea que si elijo la hora 12, me sirve para 0.0000000 dias
+vea que si elijo la hora 13, me sirve para 0.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que si elijo la hora 15, me sirve para 0.0000000 dias
+vea que si elijo la hora 16, me sirve para 0.0000000 dias
+vea que si elijo la hora 17, me sirve para 0.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 13
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que si elijo la hora 11, me sirve para 0.0000000 dias
+vea que si elijo la hora 12, me sirve para 0.0000000 dias
+vea que si elijo la hora 13, me sirve para 0.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que si elijo la hora 15, me sirve para 0.0000000 dias
+vea que si elijo la hora 16, me sirve para 0.0000000 dias
+vea que si elijo la hora 17, me sirve para 0.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 14
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que si elijo la hora 11, me sirve para 0.0000000 dias
+vea que si elijo la hora 12, me sirve para 0.0000000 dias
+vea que si elijo la hora 13, me sirve para 0.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que si elijo la hora 15, me sirve para 0.0000000 dias
+vea que si elijo la hora 16, me sirve para 0.0000000 dias
+vea que si elijo la hora 17, me sirve para 0.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 19
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 2.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 21
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 22
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 2.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 25
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 26
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 2.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 28
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 35
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 37
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 38
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 4 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 41
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 3 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 42
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 44
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 49
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 2 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 1.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 50
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 2.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 52
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 56
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 3.0000000 dias
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 1 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 67
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 69
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 70
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 4 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 73
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 3 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 74
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 76
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 3 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 1.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 1.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 81
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 2 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 82
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 2.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 84
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 88
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 2 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 97
+vea que el dia 6 esta libre a la hora 0
+vea que si elijo la hora 0, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 1
+vea que si elijo la hora 1, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 2
+vea que si elijo la hora 2, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 3
+vea que si elijo la hora 3, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 4
+vea que si elijo la hora 4, me sirve para 1.0000000 dias
+vea que el dia 6 esta libre a la hora 5
+vea que si elijo la hora 5, me sirve para 1.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 1 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 1.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 98
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 5 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 5 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 5 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 5 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 100
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 4 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 4 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 4 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 104
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 3 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 3 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 3 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 1 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 1 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 1 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 2.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 1 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 1 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 1 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 2.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que si elijo la hora 19, me sirve para 0.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+checking 112
+vea que si elijo la hora 0, me sirve para 0.0000000 dias
+vea que si elijo la hora 1, me sirve para 0.0000000 dias
+vea que si elijo la hora 2, me sirve para 0.0000000 dias
+vea que si elijo la hora 3, me sirve para 0.0000000 dias
+vea que si elijo la hora 4, me sirve para 0.0000000 dias
+vea que si elijo la hora 5, me sirve para 0.0000000 dias
+vea que si elijo la hora 6, me sirve para 0.0000000 dias
+vea que si elijo la hora 7, me sirve para 0.0000000 dias
+vea que el dia 1 esta libre a la hora 8
+vea que el dia 2 esta libre a la hora 8
+vea que si elijo la hora 8, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 9
+vea que el dia 1 esta libre a la hora 9
+vea que el dia 2 esta libre a la hora 9
+vea que si elijo la hora 9, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 10
+vea que el dia 2 esta libre a la hora 10
+vea que si elijo la hora 10, me sirve para 2.0000000 dias
+vea que el dia 0 esta libre a la hora 11
+vea que el dia 1 esta libre a la hora 11
+vea que el dia 2 esta libre a la hora 11
+vea que si elijo la hora 11, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 12
+vea que el dia 1 esta libre a la hora 12
+vea que el dia 2 esta libre a la hora 12
+vea que si elijo la hora 12, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 13
+vea que el dia 1 esta libre a la hora 13
+vea que el dia 2 esta libre a la hora 13
+vea que si elijo la hora 13, me sirve para 3.0000000 dias
+vea que si elijo la hora 14, me sirve para 0.0000000 dias
+vea que el dia 0 esta libre a la hora 15
+vea que el dia 1 esta libre a la hora 15
+vea que el dia 2 esta libre a la hora 15
+vea que si elijo la hora 15, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 16
+vea que el dia 1 esta libre a la hora 16
+vea que el dia 2 esta libre a la hora 16
+vea que si elijo la hora 16, me sirve para 3.0000000 dias
+vea que el dia 0 esta libre a la hora 17
+vea que el dia 1 esta libre a la hora 17
+vea que el dia 2 esta libre a la hora 17
+vea que si elijo la hora 17, me sirve para 3.0000000 dias
+vea que si elijo la hora 18, me sirve para 0.0000000 dias
+vea que el dia 2 esta libre a la hora 19
+vea que si elijo la hora 19, me sirve para 1.0000000 dias
+vea que si elijo la hora 20, me sirve para 0.0000000 dias
+vea que si elijo la hora 21, me sirve para 0.0000000 dias
+vea que si elijo la hora 22, me sirve para 0.0000000 dias
+vea que si elijo la hora 23, me sirve para 0.0000000 dias
+0.9583333

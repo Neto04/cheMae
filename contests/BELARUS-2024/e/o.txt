@@ -1,0 +1,7 @@
+Voy a bajar de 1 a 4, el orden es: 1 
+Voy a bajar de 4 a 2, el orden es: 1 4 
+Hay que bajar de 4 a 2 0 veces mas, el orden es: 1 4 2 4 
+Voy a bajar de 4 a 3, el orden es: 1 4 2 4 
+Hay que bajar de 4 a 3 1 veces mas, el orden es: 1 4 2 4 3 4 
+Hay que bajar de 1 a 4 0 veces mas, el orden es: 1 4 2 4 3 4 3 4 1 
+1 4 2 4 3 4 3 4 1 

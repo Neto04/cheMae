@@ -1,0 +1,28 @@
+para v = 4, nivel de v = 1 n1 = 0, n2 = 0
+para v = 5, nivel de v = 1 n1 = 0, n2 = 0
+para v = 3, nivel de v = 2 n1 = 1, n2 = 1
+para v = 2, nivel de v = 3 n1 = 2, n2 = 0
+2 es malo!
+para v = 8, nivel de v = 1 n1 = 0, n2 = 0
+para v = 10, nivel de v = 1 n1 = 0, n2 = 0
+para v = 9, nivel de v = 2 n1 = 1, n2 = 0
+para v = 7, nivel de v = 3 n1 = 1, n2 = 2
+para v = 12, nivel de v = 1 n1 = 0, n2 = 0
+para v = 12, nivel de v = 1 n1 = 0, n2 = 0
+para v = 11, nivel de v = 2 n1 = 1, n2 = 1
+para v = 6, nivel de v = 4 n1 = 3, n2 = 2
+para v = 1, nivel de v = 5 n1 = 2, n2 = 4
+1 es malo!
+nivel de 1 = 4
+nivel de 2 = 2
+nivel de 3 = 1
+nivel de 4 = 0
+nivel de 5 = 0
+nivel de 6 = 3
+nivel de 7 = 2
+nivel de 8 = 1
+nivel de 9 = 1
+nivel de 10 = 0
+nivel de 11 = 2
+nivel de 12 = 1
+3

@@ -1,0 +1,13 @@
+los pesos ordenados son 
+1 3 10 
+COMBI DE 13
+ahorita indx = 2, cPeso = 13, kk = 2
+coger todos menos a 2, me da 1
+de donde, ans = 1
+ahorita indx = 1, cPeso = 3, kk = 1
+coger todos menos a 1, me da 1
+de donde, ans = 2
+COMBI DE 3
+ahorita indx = 1, cPeso = 3, kk = 2
+si agarro todos los que hay, eso me da4, compare con 3
+3

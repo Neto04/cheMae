@@ -1,0 +1,4 @@
+3
+B, son of C
+A, son of B
+C, son of A

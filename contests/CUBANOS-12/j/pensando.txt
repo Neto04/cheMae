@@ -1,0 +1,122 @@
+PRUEBO CON MOD = 2
+estoy poniendo el digito 0, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 0
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 1, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 1
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 2, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 2
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 3, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 3
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 4, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 4
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 5, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 5
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 6, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 6
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 7, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 7
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 8, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 8
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 9, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 9
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 10, llevo congruencia 0, suma = 0, y men = 0
+vea que s en i = 1
+mi tope = 1
+intento meter 0en la posicion 10
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 11, llevo congruencia 0, suma = 0, y men = 1
+vea que s en i = 0
+mi tope = 9
+intento meter 0en la posicion 11
+cSum sería 0
+y cCong = 0
+estoy poniendo el digito 12, llevo congruencia 0, suma = 0, y men = 1
+vea que s en i = 0
+mi tope = 9
+eyy, estoy en el ultimo digito
+vea que sirve poner 2
+intento meter 1en la posicion 11
+cSum sería 1
+y cCong = 1
+estoy poniendo el digito 12, llevo congruencia 1, suma = 1, y men = 1
+vea que s en i = 0
+mi tope = 9
+eyy, estoy en el ultimo digito
+vea que sirve poner 1
+intento meter 2en la posicion 11
+cSum sería 2
+y cCong = 0
+estoy poniendo el digito 12, llevo congruencia 0, suma = 2, y men = 1
+vea que s en i = 0
+mi tope = 9
+eyy, estoy en el ultimo digito
+vea que sirve poner 0
+intento meter 3en la posicion 11
+SE PASA DE LA SUMA
+intento meter 4en la posicion 11
+SE PASA DE LA SUMA
+intento meter 5en la posicion 11
+SE PASA DE LA SUMA
+intento meter 6en la posicion 11
+SE PASA DE LA SUMA
+intento meter 7en la posicion 11
+SE PASA DE LA SUMA
+intento meter 8en la posicion 11
+SE PASA DE LA SUMA
+intento meter 9en la posicion 11
+SE PASA DE LA SUMA
+intento meter 1en la posicion 10
+cSum sería 1
+y cCong = 0
+estoy poniendo el digito 11, llevo congruencia 0, suma = 1, y men = 0
+vea que s en i = 0
+mi tope = 0
+intento meter 0en la posicion 11
+cSum sería 1
+y cCong = 0
+estoy poniendo el digito 12, llevo congruencia 0, suma = 1, y men = 0
+vea que s en i = 0
+mi tope = 0
+eyy, estoy en el ultimo digito
+para MOD =2, ans = 3

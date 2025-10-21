@@ -1,0 +1,26 @@
+disp = 7
+viendo 3
+cong = 0
+cSize = 1, disp = 7
+no hay sobrantes que me sirvan
+viendo 4
+cong = 1
+cSize = 2, disp = 7
+no hay sobrantes que me sirvan
+viendo 4
+cong = 1
+cSize = 2, disp = 7
+no hay sobrantes que me sirvan
+viendo 5
+cong = 2
+cSize = 2, disp = 7
+no hay sobrantes que me sirvan
+viendo 6
+cong = 0
+cSize = 2, disp = 7
+no hay sobrantes que me sirvan
+viendo 6
+cong = 0
+cSize = 2, disp = 7
+no hay sobrantes que me sirvan
+5

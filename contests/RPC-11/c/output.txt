@@ -1,0 +1,38 @@
+leo 0, 3 -R
+leo 1, 0 -Q
+leo 4, 1 -N
+saco 4, 1
+vea que estan en la diagIzq 9, y diagDer 5
+tengo un caballo!
+intento marcar 3, -1
+checking 3 -1, con n = 6
+intento marcar 3, 3
+checking 3 3, con n = 6
+es valido
+intento marcar 2, 0
+checking 2 0, con n = 6
+es valido
+intento marcar 2, 2
+checking 2 2, con n = 6
+es valido
+intento marcar 5, -1
+checking 5 -1, con n = 6
+intento marcar 5, 3
+checking 5 3, con n = 6
+es valido
+intento marcar 6, 0
+checking 6 0, con n = 6
+intento marcar 6, 2
+checking 6 2, con n = 6
+saco 1, 0
+vea que estan en la diagIzq 7, y diagDer 1
+saco 0, 3
+vea que estan en la diagIzq 3, y diagDer 3
+v se ve
+0 0 0 1 0 0 
+1 0 0 0 0 0 
+1 0 1 0 0 0 
+0 0 0 1 0 0 
+0 1 0 0 0 0 
+0 0 0 1 0 0 
+25
